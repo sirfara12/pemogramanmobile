@@ -1,3 +1,7 @@
+## NAMA : Sirfaratih
+## NIM : 2341720072
+
+
 # PERTEMUAN 5 APLIKASI PERTAMA DAN WIDGET DASAR FLUTTER
 
 ## Praktikum 1 Membuat Project Flutter Baru
